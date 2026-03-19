@@ -2,10 +2,20 @@
 
 Mass Ads.txt Checker is a Chrome Extension for high-volume `ads.txt` discovery, validation, and export workflows used by AdOps teams, publishers, and technical auditors.
 
-[![Chrome Extension](https://img.shields.io/badge/Platform-Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](#getting-started)
-[![Manifest V3](https://img.shields.io/badge/Manifest-V3-0F9D58?style=for-the-badge)](#tech-stack--architecture)
-[![Version](https://img.shields.io/badge/Version-2.1-blue?style=for-the-badge)](manifest.json)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Chrome_Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://developer.chrome.com/docs/extensions/mv3/)
+[![Manifest](https://img.shields.io/badge/manifest-V3-2ea44f?style=for-the-badge)](manifest.json)
+[![Category](https://img.shields.io/badge/category-AdOps-orange?style=for-the-badge)](https://iabtechlab.com/ads-txt/)
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue?style=for-the-badge)](LICENSE)
+[![Repo Size](https://img.shields.io/github/repo-size/OstinUA/Mass-Ads-Checker?style=for-the-badge)](https://github.com/OstinUA/Mass-Ads-Checker)
+
+## Related Projects
+
+This tool is part of the **AdTech Automation Suite**. Check out the companion extension:
+
+| Project | Type | Description |
+| :--- | :--- | :--- |
+| **[Mass-Ads-Checker](https://github.com/OstinUA/Mass-Ads-Checker)** | Chrome Extension | Mass Ads.txt Checker is a Chrome Extension for high-volume ads.txt validation file |
+| **[Mass-App-Ads-Checker](https://github.com/OstinUA/Mass-App-Ads-Checker)** | Chrome Extension | Mass App-Ads.txt Checker is a Chrome Extension for high-volume app-ads.txt validation file |
 
 > [!NOTE]
 > This repository currently ships as a browser extension rather than a traditional package-distributed library. The documentation below reflects the implementation that exists in this codebase.
