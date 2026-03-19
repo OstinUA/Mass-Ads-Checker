@@ -17,7 +17,7 @@ This tool is part of the **AdTech Automation Suite**. Check out the companion ex
 | **[Mass-Ads-Checker](https://github.com/OstinUA/Mass-Ads-Checker)** | Chrome Extension | Mass Ads.txt Checker is a Chrome Extension for high-volume ads.txt validation file |
 | **[Mass-App-Ads-Checker](https://github.com/OstinUA/Mass-App-Ads-Checker)** | Chrome Extension | Mass App-Ads.txt Checker is a Chrome Extension for high-volume app-ads.txt validation file |
 
-> [!NOTE]
+> [!IMPORTANT]
 > This repository currently ships as a browser extension rather than a traditional package-distributed library. The documentation below reflects the implementation that exists in this codebase.
 
 ## Table of Contents
