@@ -1,4 +1,8 @@
 # Mass Ads.txt Checker
+>[!NOTE]
+>### This project has been merged into **[OstinUA/AdOps-Txt-Scanner](https://github.com/OstinUA/AdOps-Txt-Scanner)** and refactored to support a new configuration. Future development and updates will continue in the new repository.
+
+---
 
 Mass Ads.txt Checker is a Chrome Extension for high-volume `ads.txt` discovery, validation, and export workflows used by AdOps teams, publishers, and technical auditors.
 
