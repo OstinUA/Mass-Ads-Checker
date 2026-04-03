@@ -1,6 +1,6 @@
 # Mass Ads.txt Checker
 >[!NOTE]
->### This project has been merged into **[OstinUA/AdOps-Txt-Scanner](https://github.com/OstinUA/AdOps-Txt-Scanner)** and refactored to support a new configuration. Future development and updates will continue in the new repository.
+>### This project has been merged into **[OstinUA/Mass-Ads-App-Ads-Checker](https://github.com/OstinUA/Mass-Ads-App-Ads-Checker)** and refactored to support a new configuration. Future development and updates will continue in the new repository.
 
 ---
 
